@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Sheikhs N Burgers",
+    "address": "82-37 164 Street, Jamaica, NY 11432",
+    "phone": "(347) 829-3052"
+  },
+  {
+    "name": "Holy Cow Restaurant Inc.",
+    "address": "34 Canal St, New York, NY 10002",
+    "phone": "(212) 774-9446"
+  },
+  {
+    "name": "Eatzy Chinese",
+    "address": "37-21 72nd Street, Jackson Heights, NY 11372",
+    "phone": "(718) 533-9131"
+  },
+  {
+    "name": "Eatzy Thai",
+    "address": "33-09 Broadway, Astoria, NY 11106",
+    "phone": "(718) 956-7117"
+  },
+  {
+    "name": "Mannan Bakery",
+    "address": "71-14 35 Ave, Jackson Heights, NY 11372",
+    "phone": "(718) 426-7621"
+  },
+  {
+    "name": "Mannan Bakery & Restaurant",
+    "address": "167-15 Hillside Ave, Jamaica, NY 11432",
+    "phone": "(718) 374-3679"
+  },
+  {
+    "name": "Burgermania 40 Street",
+    "address": "274 West 40 Street, New York, NY 10018",
+    "phone": "(929) 235-7861"
+  },
+  {
+    "name": "Moon Restaurant",
+    "address": "69-11 Woodside Ave, Woodside, NY 11377",
+    "phone": "(718) 335-1828"
+  },
+  {
+    "name": "New York City Halal Grill (Aria Kabab)",
+    "address": "72-55 Kissena Blvd, Flushing, NY 11367",
+    "phone": "(718) 793-2984"
+  },
+  {
+    "name": "Azka BBQ",
+    "address": "87-16 Parsons Blvd, Jamaica, NY 11432",
+    "phone": "(718) 750-2952"
+  },
+  {
+    "name": "Moho Mexican Grill",
+    "address": "3805 Bell Blvd, Bayside, NY 11361",
+    "phone": "(718) 709-9695"
+  },
+  {
+    "name": "Burgery",
+    "address": "149-21 Jamaica Ave, Jamaica, NY 11345",
+    "phone": "(718) 255-1617"
+  }
+]
